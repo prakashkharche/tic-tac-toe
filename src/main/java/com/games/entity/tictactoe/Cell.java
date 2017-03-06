@@ -1,4 +1,4 @@
-package com.games.entity.tic_tac_toe;
+package com.games.entity.tictactoe;
 
 /**
  * Created by prakash.vijay on 05/08/16.

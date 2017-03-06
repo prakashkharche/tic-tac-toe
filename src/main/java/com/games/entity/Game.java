@@ -9,6 +9,7 @@ public abstract class Game {
     public String uuid;
 
     public Game() {
-        this.uuid = UUID.randomUUID().toString();
+        //this.uuid = UUID.randomUUID().toString();
+        this.uuid = "g1";
     }
 }
